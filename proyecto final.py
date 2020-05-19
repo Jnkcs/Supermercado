@@ -9,9 +9,7 @@ def IngresoDeProd():
     
     os.system("pause")
     os.system("cls")
-    
-    
-    
+       
 def resta ():
    
     input()
@@ -24,7 +22,6 @@ def division ():
    
     input()
 
-
 while (True):
     print ("_______________________________________________________ ");
     print ("l                                                      l");
@@ -35,7 +32,6 @@ while (True):
     print ("l     4...... Modificacion de Productos                l");
     print ("l     5...... SALIR                                    l");
     print ("l______________________________________________________l");
-
     opcion=int (input (("Ingrese opcion:    ")));
     
     if (opcion==1): 
